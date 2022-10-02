@@ -1,0 +1,15 @@
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_лекции\C#Lect1\Exampl001_HelloConsole\bin\Debug\net6.0\Exampl001_HelloConsole.exe
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_лекции\C#Lect1\Exampl001_HelloConsole\bin\Debug\net6.0\Exampl001_HelloConsole.deps.json
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_лекции\C#Lect1\Exampl001_HelloConsole\bin\Debug\net6.0\Exampl001_HelloConsole.runtimeconfig.json
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_лекции\C#Lect1\Exampl001_HelloConsole\bin\Debug\net6.0\Exampl001_HelloConsole.dll
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_лекции\C#Lect1\Exampl001_HelloConsole\bin\Debug\net6.0\Exampl001_HelloConsole.pdb
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_лекции\C#Lect1\Exampl001_HelloConsole\obj\Debug\net6.0\Exampl001_HelloConsole.csproj.AssemblyReference.cache
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_лекции\C#Lect1\Exampl001_HelloConsole\obj\Debug\net6.0\Exampl001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_лекции\C#Lect1\Exampl001_HelloConsole\obj\Debug\net6.0\Exampl001_HelloConsole.AssemblyInfoInputs.cache
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_лекции\C#Lect1\Exampl001_HelloConsole\obj\Debug\net6.0\Exampl001_HelloConsole.AssemblyInfo.cs
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_лекции\C#Lect1\Exampl001_HelloConsole\obj\Debug\net6.0\Exampl001_HelloConsole.csproj.CoreCompileInputs.cache
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_лекции\C#Lect1\Exampl001_HelloConsole\obj\Debug\net6.0\Exampl001_HelloConsole.dll
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_лекции\C#Lect1\Exampl001_HelloConsole\obj\Debug\net6.0\refint\Exampl001_HelloConsole.dll
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_лекции\C#Lect1\Exampl001_HelloConsole\obj\Debug\net6.0\Exampl001_HelloConsole.pdb
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_лекции\C#Lect1\Exampl001_HelloConsole\obj\Debug\net6.0\Exampl001_HelloConsole.genruntimeconfig.cache
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_лекции\C#Lect1\Exampl001_HelloConsole\obj\Debug\net6.0\ref\Exampl001_HelloConsole.dll
